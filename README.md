@@ -3,7 +3,7 @@ IPL Data Engineering &amp; Analytics Project using PySpark and AWS S3. This proj
 # IPL Data Engineering & Analytics using PySpark
 
 ## Overview
-This project analyzes Indian Premier League (IPL) cricket data using **PySpark and AWS S3**.  
+This project analyzes Indian Premier League (IPL) cricket data till 2017 using **PySpark and AWS S3**.  
 The dataset includes **ball-by-ball match data, player information, match results, and team details**.
 
 The goal of this project is to demonstrate **data engineering workflows and sports analytics using Spark**, including data ingestion, schema design, feature engineering, aggregations, and advanced SQL analytics.
