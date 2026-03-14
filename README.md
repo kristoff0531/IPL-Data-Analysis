@@ -42,4 +42,18 @@ These datasets contain:
 | Player_match | Player participation per match |
 | Team | Team metadata |
 
+## Key Visualizations
+
+### Most Economical Bowlers in Powerplay
+
+![Powerplay Economy](images/economy_bowler.png)
+
+### Most Scores by Venues
+
+![Top Batsmen](images/scores_by_venue.png)
+
+### IPL Trophies by Team
+
+![Team Trophies](images/trophies.png)
+
 ---
